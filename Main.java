@@ -7,7 +7,7 @@ class Main{
     static String[][] item = new String[0][6];		//[][0]-itemcode [][1]-supid [][2]-category [][3]-description [][4]-unitprice [][5]-qty		
 	static double[] price = new double[0];
 
-	static String[] user = {"danujav","1234"};
+	static String[] user = {"sameera","1234"};
       
     public static void clearconsole() {
             final String os = System.getProperty("os.name");
